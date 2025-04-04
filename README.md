@@ -6,6 +6,14 @@ Smart assistant that answers questions from PDF using LangChain, HuggingFace, Ch
 - **HuggingFace Embeddings** – To convert text into vectors
 - **Chroma Vector DB** – To store and retrieve document chunks
 - **Groq’s LLaMA3 Model** – For generating intelligent responses
+  
+📂 Files Included
+
+| File | Description |
+|------|-------------|
+| `pdf_reader.ipynb` | Main code notebook for reading and querying PDF |
+| `Introduction_GenAI_EoAI.pdf` | Sample PDF used in this project |
+| `README.md` | Project documentation |
 
 📌 Use Cases
 
